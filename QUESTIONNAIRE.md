@@ -7,6 +7,9 @@ puis enregistrez vos réponses en effectuant votre premier commit (si vous avez 
 ### Partie 1 : Connaissances générales en cybersécurité
 
 1. Évaluez votre connaissance des principes fondamentaux de la cybersécurité (de 1 à 5).
+
+Je ne les connais pas tous, mais il y a la **confidentialité**, **l'authentification**, **l'intégrité** et la **disponibilité**, le dernier je ne sais pas.
+
 2. Connaissez-vous les différentes méthodes d'attaque informatique ? Si oui, lesquelles ?
 
 Il existe un certain nombre d'attaque informatique tels que:
