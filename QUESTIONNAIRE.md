@@ -58,6 +58,10 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - je dirais **2**.
 
 8. Quelle est votre expérience en matière de veille sur les cybermenaces ?
+
+    - Ma veille ce résume à LinkedIn en suivant des personnes plutôt connu dans le milieu avec par exemple M. Julien Metayer, Laurent M. pour leurs posts régulier sur la plateforme. 
+    - M. Robert Stéphane pour le côté DevOps et DevSecOps grâce à son blog. 
+
 9. Pouvez-vous citer des sources fiables pour la veille en cybersécurité ?
 
 ### Partie 3 : Audit de la sécurité des systèmes d'information
