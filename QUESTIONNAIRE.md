@@ -23,6 +23,10 @@ Il existe un certain nombre d'attaque informatique tels que:
     et certainement bien d'autres encore
 
 3. Avez-vous déjà entendu parler des tests d'intrusion ? (Oui/Non)
+
+**Oui**, les tests d'intrusion sont liés aux attaques par **Brute force**, **dictionnaire**.
+Après je n'en sais pas forcément plus.
+
 4. Pouvez-vous expliquer ce qu'est un SIEM (Security Information and Event Management) ?
 5. Quels sont les principaux types de malwares ?
 
