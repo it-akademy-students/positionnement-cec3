@@ -82,6 +82,8 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 
 13. Avez-vous déjà rédigé un rapport d'audit de sécurité ? (Oui/Non)
 
+    - Non jamais.
+
 ### Partie 4 : Gestion des incidents de sécurité
 
 14. Avez-vous déjà été impliqué dans la gestion d'un incident de sécurité ? (Oui/Non)
