@@ -77,6 +77,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Non.
 
 12. Comment évalueriez-vous votre capacité à identifier et analyser les vulnérabilités des systèmes d'information ? (de 1 à 5)
+
+    - N'ayant que très peu de recule sur la cybersécurité, je dirais **2**.
+
 13. Avez-vous déjà rédigé un rapport d'audit de sécurité ? (Oui/Non)
 
 ### Partie 4 : Gestion des incidents de sécurité
