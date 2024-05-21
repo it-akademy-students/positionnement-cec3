@@ -47,6 +47,11 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 ### Partie 2 : Prévention et anticipation des menaces
 
 6. Avez-vous déjà participé à un projet de test d'intrusion ? (Oui/Non)
+
+    Alors, professionnellement parlant non, en revanche côté fil rouge en developpement fullstack,
+    j'ai pu faire différents tests afin de voir si les mots de passe étaient suffisament robuste.
+    Egalement lors de CTF, mais ça reste en amateur.
+
 7. Comment évalueriez-vous votre capacité à planifier un test d'intrusion ? (de 1 à 5)
 8. Quelle est votre expérience en matière de veille sur les cybermenaces ?
 9. Pouvez-vous citer des sources fiables pour la veille en cybersécurité ?
