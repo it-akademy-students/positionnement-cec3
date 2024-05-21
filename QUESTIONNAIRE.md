@@ -28,6 +28,9 @@ Il existe un certain nombre d'attaque informatique tels que:
 Après je n'en sais pas forcément plus.
 
 4. Pouvez-vous expliquer ce qu'est un SIEM (Security Information and Event Management) ?
+
+Je ne sais pas, j'imagine par son abréviation qu'il s'agit ici de promouvoir la sécurité en entreprise en alertant sur les dangers de la cybersécurité sans forcément complexifié les tâches déjà en place.
+
 5. Quels sont les principaux types de malwares ?
 
 ### Partie 2 : Prévention et anticipation des menaces
