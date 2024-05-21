@@ -8,6 +8,20 @@ puis enregistrez vos réponses en effectuant votre premier commit (si vous avez 
 
 1. Évaluez votre connaissance des principes fondamentaux de la cybersécurité (de 1 à 5).
 2. Connaissez-vous les différentes méthodes d'attaque informatique ? Si oui, lesquelles ?
+
+Il existe un certain nombre d'attaque informatique tels que:
+
+    - Phishing
+    - Ransomware (wannacry)
+    - Enginéring sociale
+    - XSS
+    - Malware (vers, virus, trojan)
+    - Keylogger
+    - MitM (Man in the Middle)
+    - USB Killer...
+
+    et certainement bien d'autres encore
+
 3. Avez-vous déjà entendu parler des tests d'intrusion ? (Oui/Non)
 4. Pouvez-vous expliquer ce qu'est un SIEM (Security Information and Event Management) ?
 5. Quels sont les principaux types de malwares ?
