@@ -53,6 +53,10 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     Egalement lors de CTF, mais ça reste en amateur.
 
 7. Comment évalueriez-vous votre capacité à planifier un test d'intrusion ? (de 1 à 5)
+
+    - Même si j'ai quelques notions, je me sens pas à l'aise pour planifier ce genre de test.
+    - je dirais **2**.
+
 8. Quelle est votre expérience en matière de veille sur les cybermenaces ?
 9. Pouvez-vous citer des sources fiables pour la veille en cybersécurité ?
 
