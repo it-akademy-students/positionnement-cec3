@@ -73,6 +73,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Non jamais.
 
 11. Connaissez-vous les différentes phases d'un audit de sécurité ? (Oui/Non)
+
+    - Non.
+
 12. Comment évalueriez-vous votre capacité à identifier et analyser les vulnérabilités des systèmes d'information ? (de 1 à 5)
 13. Avez-vous déjà rédigé un rapport d'audit de sécurité ? (Oui/Non)
 
