@@ -7,10 +7,42 @@ puis enregistrez vos réponses en effectuant votre premier commit (si vous avez 
 ### Partie 1 : Connaissances générales en cybersécurité
 
 1. Évaluez votre connaissance des principes fondamentaux de la cybersécurité (de 1 à 5).
+
+Je ne les connais pas tous, mais il y a la **confidentialité**, **l'authentification**, **l'intégrité** et la **disponibilité**, le dernier je ne sais pas.
+
 2. Connaissez-vous les différentes méthodes d'attaque informatique ? Si oui, lesquelles ?
+
+Il existe un certain nombre d'attaque informatique tels que:
+
+    - Phishing
+    - Ransomware (wannacry)
+    - Enginéring sociale
+    - XSS
+    - Malware (vers, virus, trojan)
+    - Keylogger
+    - MitM (Man in the Middle)
+    - USB Killer...
+
+    et certainement bien d'autres encore
+
 3. Avez-vous déjà entendu parler des tests d'intrusion ? (Oui/Non)
+
+**Oui**, les tests d'intrusion sont liés aux attaques par **Brute force**, **dictionnaire**.
+Après je n'en sais pas forcément plus.
+
 4. Pouvez-vous expliquer ce qu'est un SIEM (Security Information and Event Management) ?
+
+Je ne sais pas, j'imagine par son abréviation qu'il s'agit ici de promouvoir la sécurité en entreprise en alertant sur les dangers de la cybersécurité sans forcément complexifié les tâches déjà en place.
+
 5. Quels sont les principaux types de malwares ?
+
+Il existe un bon nombre de malware, tous avec un impact bien spécifique.
+
+    - Les vers: Qui se propagent par le réseaux afin de se répandre et occasionnés un maximum de dégâts.
+    - Les virus: Programme conçus par un groupe ou un indépendant à des fins malveillante.
+    - Trojans: Programme permettant de voler des informations sans qu'on le sache.
+    - Keylogger: Programme qui scrute et enregistre chaque frappe au clavier d'une victime.
+    - Spyware: (Même chose qu'un trojan mais sur le web... pas très sûr de ma réponse)
 
 ### Partie 2 : Prévention et anticipation des menaces
 
