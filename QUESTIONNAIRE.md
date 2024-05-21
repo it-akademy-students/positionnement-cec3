@@ -64,6 +64,8 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 
 9. Pouvez-vous citer des sources fiables pour la veille en cybersécurité ?
 
+    - [x] - Répondu sur la question précédente
+
 ### Partie 3 : Audit de la sécurité des systèmes d'information
 
 10. Avez-vous déjà réalisé un audit de sécurité ? (Oui/Non)
