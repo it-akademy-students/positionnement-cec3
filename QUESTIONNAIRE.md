@@ -33,6 +33,14 @@ Je ne sais pas, j'imagine par son abréviation qu'il s'agit ici de promouvoir la
 
 5. Quels sont les principaux types de malwares ?
 
+Il existe un bon nombre de malware, tous avec un impact bien spécifique.
+
+    - Les vers: Qui se propagent par le réseaux afin de se répandre et occasionnés un maximum de dégâts.
+    - Les virus: Programme conçus par un groupe ou un indépendant à des fins malveillante.
+    - Trojans: Programme permettant de voler des informations sans qu'on le sache.
+    - Keylogger: Programme qui scrute et enregistre chaque frappe au clavier d'une victime.
+    - Spyware: (Même chose qu'un trojan mais sur le web... pas très sûr de ma réponse)
+
 ### Partie 2 : Prévention et anticipation des menaces
 
 6. Avez-vous déjà participé à un projet de test d'intrusion ? (Oui/Non)
