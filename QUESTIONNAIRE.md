@@ -118,6 +118,8 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 
 21. Avez-vous déjà rédigé un plan de correction après une attaque de sécurité ? (Oui/Non)
 
+    - Alors là, il est question de PRA (plan de reprise d'activité). Hormis le nom, je n'ai jamais conçu ce genre de document.
+
 ### Partie 6 : Sécurité organisationnelle
 
 22. Connaissez-vous la norme ISO 27001 ? (Oui/Non)
