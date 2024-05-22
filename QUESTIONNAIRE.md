@@ -194,7 +194,6 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Renforcer mes acquis sur des technologies web bien ciblé. (React / Angular / Node / NestJS / Docker / Ansible / Vagrant / Nginx)
     - Gestion d'équipe en milieu professionnel.
     
-
 40. Quels sont vos objectifs professionnels en tant que consultant en cybersécurité ?
 
-    - 
+    - Obtenir un CDI et permettre de mettre mes compétences aux services des entreprises qui me feront confiance et qui s'est peut-être enseigné aussi par la même occasion. 
