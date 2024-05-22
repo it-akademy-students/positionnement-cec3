@@ -127,6 +127,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Je connais de nom.
 
 23. Avez-vous déjà participé à un projet de mise en conformité avec le RGPD ? (Oui/Non)
+
+    - Le Règlement Général de la Protection des Données est une réglementation importante qu'il faut prendre en considération aujourd'hui. J'ai eu l'occasion de travaillé dessus lors d'un stage en entreprise mais aussi en formation dans divers projets.
+
 24. Comment évalueriez-vous votre capacité à réaliser une évaluation des risques SI ? (de 1 à 5)
 25. Pouvez-vous expliquer ce qu'est un schéma directeur de la sécurité des systèmes d'information ?
 
