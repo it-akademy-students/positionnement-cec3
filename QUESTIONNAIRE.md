@@ -131,6 +131,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Le Règlement Général de la Protection des Données est une réglementation importante qu'il faut prendre en considération aujourd'hui. J'ai eu l'occasion de travaillé dessus lors d'un stage en entreprise mais aussi en formation dans divers projets.
 
 24. Comment évalueriez-vous votre capacité à réaliser une évaluation des risques SI ? (de 1 à 5)
+
+    - Alors là, je pense un peu comme d'habitude, entre théorie et pratique il y a un monde. je table sur un petit **2**.
+
 25. Pouvez-vous expliquer ce qu'est un schéma directeur de la sécurité des systèmes d'information ?
 
 ### Partie 7 : Compétences techniques spécifiques
