@@ -170,6 +170,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Non, enfin si peut-être mais pas forcément dans le milieu managérial. Mais dans l'ensemble je dirais **non**.
 
 35. Comment évalueriez-vous votre compétence en matière de leadership et de gestion d'équipe dans le contexte de la cybersécurité ? (de 1 à 5)
+
+    - J'ai un assez bon esprit d'équipe, je n'ai pas d'expérience en cybersécurité en tant que leadership. je dirais **3**
+
 36. Avez-vous déjà coordonné des acteurs externes dans un projet de cybersécurité ? (Oui/Non)
 37. Pouvez-vous expliquer ce qu'est une analyse d'impact sur la protection des données (AIDP) ?
 
