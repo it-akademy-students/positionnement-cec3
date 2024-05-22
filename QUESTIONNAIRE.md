@@ -154,6 +154,8 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 
 29. Avez-vous de l'expérience avec les technologies de pare-feu et de détection d'intrusion ? (Oui/Non)
 
+    - Je reste très friable dans cette partie.
+
 ### Partie 8 : Connaissances réglementaires et légales
 
 30. Connaissez-vous les obligations légales relatives à la cybersécurité en France ? (Oui/Non)
