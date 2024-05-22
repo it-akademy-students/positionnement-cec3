@@ -179,6 +179,8 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 
 37. Pouvez-vous expliquer ce qu'est une analyse d'impact sur la protection des données (AIDP) ?
 
+    - Je n'en sais rien
+
 ### Partie 10 : Auto-évaluation
 
 38. Quelles sont vos forces en matière de cybersécurité ?
