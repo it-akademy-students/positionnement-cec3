@@ -100,6 +100,8 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 
 17. Pouvez-vous expliquer ce qu'est une investigation numérique (Forensic) ?
 
+    - Le forensic est une approche simple mais redoutable. En effet, nous disposons tous d'une identitée numérique qu'il faut protéger. En fouinant sur la toile nous pouvons retrouver des informations personnel qui pourrait nous nuir.
+
 ### Partie 5 : Sécurisation après une cyber-attaque
 
 18. Avez-vous de l'expérience dans l'analyse et la sécurisation des systèmes après une attaque ? (Oui/Non)
