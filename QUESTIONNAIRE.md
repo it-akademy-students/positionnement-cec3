@@ -174,6 +174,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - J'ai un assez bon esprit d'équipe, je n'ai pas d'expérience en cybersécurité en tant que leadership. je dirais **3**
 
 36. Avez-vous déjà coordonné des acteurs externes dans un projet de cybersécurité ? (Oui/Non)
+
+    - Je n'ai jamais coordonné d'acteurs externes du mois à ma connaissance.
+
 37. Pouvez-vous expliquer ce qu'est une analyse d'impact sur la protection des données (AIDP) ?
 
 ### Partie 10 : Auto-évaluation
