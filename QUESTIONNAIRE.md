@@ -95,6 +95,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Partiellement, nous devons déconnecter le poste du réseau, analyser l'évolution de l'attaque mais aussi inspecter les fichiers de logs afin de déceler les potentiels changements.
 
 16. Comment évalueriez-vous votre capacité à coordonner la réponse à un incident de sécurité ? (de 1 à 5)
+
+    - Très bonne question, je dirais **2** voir **3**. Mais ça reste de la théorie en pratique **1**.
+
 17. Pouvez-vous expliquer ce qu'est une investigation numérique (Forensic) ?
 
 ### Partie 5 : Sécurisation après une cyber-attaque
