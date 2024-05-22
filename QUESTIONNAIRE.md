@@ -109,6 +109,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Non aucune expérience.
 
 19. Connaissez-vous les techniques pour limiter la propagation des malwares ? (Oui/Non)
+
+    - Alors je dirais débrancher le câble réseau et mettre à jours les antivirus.
+
 20. Comment évalueriez-vous votre capacité à proposer des améliorations techniques et organisationnelles après une attaque ? (de 1 à 5)
 21. Avez-vous déjà rédigé un plan de correction après une attaque de sécurité ? (Oui/Non)
 
