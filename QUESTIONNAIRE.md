@@ -136,6 +136,8 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 
 25. Pouvez-vous expliquer ce qu'est un schéma directeur de la sécurité des systèmes d'information ?
 
+    - Je suppose qu'il s'agit ici de concevoir une topology réseaux, un organigramme.
+
 ### Partie 7 : Compétences techniques spécifiques
 
 26. Avez-vous déjà utilisé des outils d'analyse de malware ? (Oui/Non)
