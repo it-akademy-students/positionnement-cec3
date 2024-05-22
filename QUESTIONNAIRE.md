@@ -123,6 +123,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 ### Partie 6 : Sécurité organisationnelle
 
 22. Connaissez-vous la norme ISO 27001 ? (Oui/Non)
+
+    - Je connais de nom.
+
 23. Avez-vous déjà participé à un projet de mise en conformité avec le RGPD ? (Oui/Non)
 24. Comment évalueriez-vous votre capacité à réaliser une évaluation des risques SI ? (de 1 à 5)
 25. Pouvez-vous expliquer ce qu'est un schéma directeur de la sécurité des systèmes d'information ?
