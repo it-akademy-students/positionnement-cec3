@@ -105,6 +105,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 ### Partie 5 : Sécurisation après une cyber-attaque
 
 18. Avez-vous de l'expérience dans l'analyse et la sécurisation des systèmes après une attaque ? (Oui/Non)
+
+    - Non aucune expérience.
+
 19. Connaissez-vous les techniques pour limiter la propagation des malwares ? (Oui/Non)
 20. Comment évalueriez-vous votre capacité à proposer des améliorations techniques et organisationnelles après une attaque ? (de 1 à 5)
 21. Avez-vous déjà rédigé un plan de correction après une attaque de sécurité ? (Oui/Non)
