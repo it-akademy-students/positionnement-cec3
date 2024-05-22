@@ -184,5 +184,8 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 ### Partie 10 : Auto-évaluation
 
 38. Quelles sont vos forces en matière de cybersécurité ?
+
+    - Ma force réside dans ma résiliance à allez au bout, ma détermination à toujours me maintenir à jour et surtout mon envie de me former en autodidacte sur des points qui me permettrait d'améliorer mes compétences.
+
 39. Quels sont les domaines dans lesquels vous souhaitez vous améliorer ?
 40. Quels sont vos objectifs professionnels en tant que consultant en cybersécurité ?
