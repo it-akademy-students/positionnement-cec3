@@ -188,4 +188,13 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Ma force réside dans ma résiliance à allez au bout, ma détermination à toujours me maintenir à jour et surtout mon envie de me former en autodidacte sur des points qui me permettrait d'améliorer mes compétences.
 
 39. Quels sont les domaines dans lesquels vous souhaitez vous améliorer ?
+
+    - Tout ce qui touche à la partie cybersécurité dans son ensemble.
+    - Renforcer mes connaissances en réseau
+    - Renforcer mes acquis sur des technologies web bien ciblé. (React / Angular / Node / NestJS / Docker / Ansible / Vagrant / Nginx)
+    - Gestion d'équipe en milieu professionnel.
+    
+
 40. Quels sont vos objectifs professionnels en tant que consultant en cybersécurité ?
+
+    - 
