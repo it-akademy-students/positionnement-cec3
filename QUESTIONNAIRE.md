@@ -145,6 +145,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
     - Hormis des antivirus, ou suppression de spyware, je n'ai jamais chercher comment analyser celle-ci.
 
 27. Connaissez-vous les principaux protocoles d'investigation numérique ? (Oui/Non)
+
+    - Oui (HTTP sur le port 80, HTTPS sur le port 443) il existe bien d'autre protocole mais c'est senssiblement celui qui m'attire le plus
+
 28. Comment évalueriez-vous votre compétence en matière de cryptographie ? (de 1 à 5)
 29. Avez-vous de l'expérience avec les technologies de pare-feu et de détection d'intrusion ? (Oui/Non)
 
