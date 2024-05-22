@@ -87,6 +87,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 ### Partie 4 : Gestion des incidents de sécurité
 
 14. Avez-vous déjà été impliqué dans la gestion d'un incident de sécurité ? (Oui/Non)
+
+    - Non, pas à ma connaissance.
+
 15. Connaissez-vous les étapes de réponse à un incident de sécurité ? (Oui/Non)
 16. Comment évalueriez-vous votre capacité à coordonner la réponse à un incident de sécurité ? (de 1 à 5)
 17. Pouvez-vous expliquer ce qu'est une investigation numérique (Forensic) ?
