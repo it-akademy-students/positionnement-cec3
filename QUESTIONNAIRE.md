@@ -141,6 +141,9 @@ Il existe un bon nombre de malware, tous avec un impact bien spécifique.
 ### Partie 7 : Compétences techniques spécifiques
 
 26. Avez-vous déjà utilisé des outils d'analyse de malware ? (Oui/Non)
+
+    - Hormis des antivirus, ou suppression de spyware, je n'ai jamais chercher comment analyser celle-ci.
+
 27. Connaissez-vous les principaux protocoles d'investigation numérique ? (Oui/Non)
 28. Comment évalueriez-vous votre compétence en matière de cryptographie ? (de 1 à 5)
 29. Avez-vous de l'expérience avec les technologies de pare-feu et de détection d'intrusion ? (Oui/Non)
